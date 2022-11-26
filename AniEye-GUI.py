@@ -50,6 +50,6 @@ make_button("fly", 3, 0, "image/fly.png", fly.see)
 make_button("cat", 4, 0, "image/cat.jpg", cat.see)
 make_button("shark", 5, 0, "image/underwater.jpg", shark.see)
 make_button("horse", 6, 0, "image/horse.jpg", horse.see)
-make_button("bird", 7, 0, "image/bird.jpg", bird.see)
+make_button("bird", 7, 0, "image/bird.png", bird.see)
 
 window.mainloop()
